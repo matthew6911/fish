@@ -6,12 +6,12 @@
 ---
 
 
-### 1. Циклы
-[![Открыть код](https://img.shields.io/badge/Код-calkuleter-blue)]([https://github.com/flash1818/fishmen/tree/main/%D1%86%D0%B8%D0%BA%D0%BB](https://github.com/matthew6911/fish/tree/main/calkuleter))
+### 1. Калькулятор
+[![Открыть код](https://img.shields.io/badge/Код-calkuleter-blue)](https://github.com/matthew6911/fish/tree/main/calkuleter))
 
 
-### 2. Калькулятор
-[![Открыть код](https://img.shields.io/badge/Код-КАЛЬКУЛЯТОР-green)](https://github.com/flash1818/fishmen/tree/main/%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80)
+### 2. 
+[![Открыть код](https://img.shields.io/badge/Код-КАЛЬКУЛЯТОР-green)]([https://github.com/flash1818/fishmen/tree/main/%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80](https://github.com/matthew6911/fish/tree/main/coderun))
 
 ### 3. Крестики-нолики
 [![Открыть код](https://img.shields.io/badge/Код-КРЕСТИКИ--НОЛИКИ-red)](https://github.com/flash1818/fishmen/tree/main/%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%B8%D0%BA%D0%B8%20%D0%BD%D0%BE%D0%BB%D0%B8%D0%BA%D0%B8)
