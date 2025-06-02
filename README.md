@@ -7,26 +7,28 @@
 
 
 ### 1. Калькулятор
-[![Открыть код](https://img.shields.io/badge/Код-calkuleter-blue)](https://github.com/matthew6911/fish/tree/main/calkuleter))
+[![Открыть код](https://img.shields.io/badge/Код-calkuleter-blue)](https://github.com/matthew6911/fish/tree/main/calkuleter)
 
 
-### 2. 
-[![Открыть код](https://img.shields.io/badge/Код-КАЛЬКУЛЯТОР-green)]([https://github.com/flash1818/fishmen/tree/main/%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80](https://github.com/matthew6911/fish/tree/main/coderun))
+### 2. CodeRun
+[![Открыть код](https://img.shields.io/badge/Код-CodeRun-green)](https://github.com/matthew6911/fish/tree/main/coderun)
+
 
 ### 3. Крестики-нолики
-[![Открыть код](https://img.shields.io/badge/Код-КРЕСТИКИ--НОЛИКИ-red)](https://github.com/flash1818/fishmen/tree/main/%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%B8%D0%BA%D0%B8%20%D0%BD%D0%BE%D0%BB%D0%B8%D0%BA%D0%B8)
+[![Открыть код](https://img.shields.io/badge/Код-КРЕСТИКИ--НОЛИКИ-red)](https://github.com/matthew6911/fish/tree/main/my%20novella%231)
 
 
-### 4. Текстовая новелла
-[![Открыть код](https://img.shields.io/badge/Код-НОВЕЛЛА-purple)](https://github.com/flash1818/fishmen/tree/main/%D0%BD%D0%B0%D0%B2%D0%B5%D0%BB%D0%B0)
+### 4. Работа с массивами
+[![Открыть код](https://img.shields.io/badge/Код-массивы-orange)](https://github.com/matthew6911/fish/tree/main/%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2)
 
 
-### 5. Работа с массивами
-[![Открыть код](https://img.shields.io/badge/Код-МАССИВЫ-orange)](https://github.com/flash1818/fishmen/tree/main/%D0%BC%D0%B0%D1%81%D0%B8%D0%B2)
-
-
-### 6. Задания CodeRun
-[![Открыть код](https://img.shields.io/badge/Код-CODERUN-blue)](https://github.com/flash1818/fishmen/tree/main/coderun)
-
-### 7. Блок-схемы
+### 6. Блок-схемы
 [![Документ](https://img.shields.io/badge/Документ-БЛОК--СХЕМА-yellow)](https://github.com/flash1818/fishmen/tree/main/%D0%B1%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D0%B0)
+
+
+### 7. Новелла
+[![Открыть код](https://img.shields.io/badge/Код-Новелла-red)](https://github.com/matthew6911/fish/tree/main/my%20novella%231)
+
+
+### 8. ДЗ
+[![Открыть код](https://img.shields.io/badge/Код-ДЗ-orange)](https://github.com/matthew6911/fish/tree/main/%D0%94%D0%97)
